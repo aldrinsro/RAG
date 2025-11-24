@@ -6,7 +6,7 @@ Un système RAG (Retrieval-Augmented Generation) multimodal utilisant OpenAI et 
 
 - ✅ Ingestion de documents PDF et images
 - ✅ Recherche vectorielle avec pgvector
-- ✅ Génération de réponses contextuelles avec GPT-3.5-turbo
+- ✅ Génération de réponses contextuelles avec GPT-5
 - ✅ Support multimodal (texte + images)
 - ✅ Interface web avec Streamlit
 
